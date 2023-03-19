@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ricette di Odino</title>
+</head>
+<body>
+  <h1>Ricette di Odino</h1>
+  <ul>
+    <li><a href="pollo-alla-menta.html">prima ricetta</a></li>
+    <li><a href="carote-glassate.html">seconda ricetta</a></li>
+    <li><a href="fragola rabarbaro croccante.html">terza ricetta</a></li>
+  </ul>
+
+</body>
+</html>
